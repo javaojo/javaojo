@@ -33,6 +33,7 @@ My name is Joseph and I'm from the UK. I'm a Computer Science Graduate from the 
 - C#
 - C++
 - Java
+- Django
 
 
 ### Connect with me: 
