@@ -17,7 +17,7 @@ My name is Joseph and I'm from the UK. I'm a Computer Scinece graduate from the 
 
 - 🌱 I’m currently learning pretty much as much as I can about AI and Web development.
 - 👯 I’m looking to build my skills whether it's collaborating with others.
-- 🥅 Goals: I want to be a 9 to 5 corporate slave
+- 🥅 Goals: I want to be in the minions
 - ⚡ Fun fact: I enjoy illustrating and doing photography in my free time
 
 
