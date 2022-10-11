@@ -9,7 +9,7 @@
 ### Aloha, welcome to my Github repository 👌
 
 
-My name is Joseph and I'm from the UK. I'm a Computer Scinece graduate from the Univeristy of Surrey with a 2:1 Degree. I really enjoy learning languages and frameworks like Django, Python, Java and Ruby on Rails.  I like to work on AI, Machine Learning and Web developement projects.
+My name is Joseph and I'm from the UK. I'm a Computer Science Graduate from the Univeristy of Surrey with a 2:1 Degree. I really enjoy learning languages and frameworks like Django, Python, Java and Ruby on Rails.  I like to work on AI, Machine Learning and Web developement projects.
 
 
 ### About Me
