@@ -23,7 +23,9 @@ My name is Joseph and I'm from the UK. I'm a Computer Science Graduate from the 
 
 ### Languages, Tools and Packages:
 
-- Python 
+- Python
+- PostgreSQL
+- pg4Admin
 - Python Pandas
 - Sklearn
 - Keras
